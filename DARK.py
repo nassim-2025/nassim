@@ -152,7 +152,7 @@ logo=(f"""\033[1;34m'──────────░
 
 
 
-            \ Author    : achraf Th 👑
+ Author    : achraf Th 👑
  Github    : achraf_693
  Facebook  : Achraf Boos
  Tool Name : Ninj-PRO
@@ -674,3 +674,4 @@ except requests.exceptions.ConnectionError:
         exit()
 except Exception as e:
         print(e)
+
